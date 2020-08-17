@@ -34,8 +34,8 @@ dependencies {
 	compile group: 'de.codecentric', name: 'spring-boot-admin-starter-client', version: '2.2.1'
 
 	implementation 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix'
-	implementation 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard'
-
+	//implementation 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard'
+	implementation (group: 'org.springframework.cloud', name: 'spring-cloud-netflix-hystrix-dashboard', version: '2.2.2.RELEASE')
 
 	implementation 'org.springframework.cloud:spring-cloud-starter-sleuth'
 	compileOnly 'org.projectlombok:lombok'
