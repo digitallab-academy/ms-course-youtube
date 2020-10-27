@@ -32,10 +32,28 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/product-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/product-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/registry-service" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/registry-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shopping-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/shopping-service" />
           </set>
         </option>
       </GradleProjectSettings>
