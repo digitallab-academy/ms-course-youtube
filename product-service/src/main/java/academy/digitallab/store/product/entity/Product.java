@@ -1,6 +1,5 @@
 package academy.digitallab.store.product.entity;
 
-import academy.digitallab.store.product.entity.Category;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

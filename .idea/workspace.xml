@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d32f1b9-040c-4369-b9b2-1e263257f895" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/model/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/CustomerServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/controller/CustomerRest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/controller/ErrorMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/repository/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/repository/entity/Region.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/test/java/academy/digitallab/store/customer/CustomerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/test/java/academy/digitallab/store/shopping/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/controller/ErrorMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/service/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ProductRepositoryMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/shopping/ProductRepositoryMockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ProductServiceMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/shopping/ProductServiceMockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ServiceProductApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/shopping/ServiceProductApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registry-service/src/main/java/academy/digitallab/store/registryservice/RegistryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registry-service/src/test/java/academy/digitallab/store/registryservice/RegistryServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/registry-service/src/test/java/academy/digitallab/store/shopping/registryservice/RegistryServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/ShoppingServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/ShoppingServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/controller/InvoiceRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/controller/InvoiceRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/InvoiceItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/InvoiceItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/repository/InvoiceItemsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/repository/InvoiceItemsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/test/java/academy/digitallab/store/shopping/ShoppingServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/test/java/academy/digitallab/store/shopping/ShoppingServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/config-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/customer-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/demo01">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/product-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/registry-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/shopping-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jU8pzXxWI4TbRX58qXrNwUuW5V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shopping-service" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d32f1b9-040c-4369-b9b2-1e263257f895" name="Default Changelist" comment="" />
+      <created>1603847496653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603847496653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1603848293393">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603848293393" />
+  </component>
+</project>

@@ -1,10 +1,10 @@
-package academy.digitallab.store.registryservice;
+package academy.digitallab.store.admin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RegistryServiceApplicationTests {
+class AdminServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

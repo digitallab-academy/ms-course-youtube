@@ -1,9 +1,8 @@
 package academy.digitallab.store.product.controller;
 
-import academy.digitallab.store.product.entity.Category;
 import academy.digitallab.store.product.entity.Product;
+import academy.digitallab.store.product.entity.Category;
 import academy.digitallab.store.product.service.ProductService;
-import ch.qos.logback.core.pattern.util.RegularEscapeUtil;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;

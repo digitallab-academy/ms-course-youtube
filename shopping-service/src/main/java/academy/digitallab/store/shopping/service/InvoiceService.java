@@ -1,6 +1,6 @@
 package academy.digitallab.store.shopping.service;
 
-import academy.digitallab.store.shopping.entity.Invoice;
+import academy.digitallab.store.shopping.entity.Invoice;;
 
 import java.util.List;
 
