@@ -1,7 +1,7 @@
 package academy.digitallab.store.shopping.controller;
 
-import academy.digitallab.store.shopping.service.InvoiceService;
 import academy.digitallab.store.shopping.entity.Invoice;
+import academy.digitallab.store.shopping.service.InvoiceService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
@@ -24,7 +24,7 @@ import java.util.stream.Collectors;
 public class InvoiceRest {
 
     @Autowired
-    InvoiceService invoiceService;
+    private InvoiceService invoiceService;
 
     // -------------------Retrieve All Invoices--------------------------------------------
     @GetMapping
@@ -88,6 +88,7 @@ public class InvoiceRest {
         invoice = invoiceService.deleteInvoice(invoice);
         return ResponseEntity.ok(invoice);
     }
+
 
     private String formatMessage( BindingResult result){
         List<Map<String,String>> errors = result.getFieldErrors().stream()
