@@ -1,1 +1,9 @@
 *.key
+.idea
+.gradle
+*.gradle*
+*.lock
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
+.gradle/checksums/checksums.lock
