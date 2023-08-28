@@ -1,6 +1,9 @@
 #Application Configuration
 server:
   port: 8092
+  error:
+    include-message: always
+    include-binding-errors: always
 
 # To See H2 Console in Browser:
 # http://localhost:8092/h2-console
